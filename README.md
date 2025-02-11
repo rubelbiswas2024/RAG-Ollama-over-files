@@ -60,3 +60,10 @@ python main.py
 Python 3.8+ and
 Local Ollama setup
 
+### Output like this:
+* Running on local URL:  http://127.0.0.1:0000
+* Running on public URL: https://4aae24ta1cd99dd4f8.gradio.live
+
+Click public URL to access the service.
+ 
+
