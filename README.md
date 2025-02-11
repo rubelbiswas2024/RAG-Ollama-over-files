@@ -65,5 +65,6 @@ Local Ollama setup
 * Running on public URL: https://4aae24ta1cd99dd4f8.gradio.live
 
 Click public URL to access the service.
+!output.jpg
  
 
