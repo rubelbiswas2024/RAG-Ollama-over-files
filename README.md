@@ -4,7 +4,8 @@ This repository hosts a simple application that allows users to upload documents
 
 ## Features
 
-#### Document Support: Upload various file types, including PDFs, Word documents (DOCX), Excel spreadsheets (XLSX, XLS), and CSV files.
+#### Document Support: 
+Upload various file types, including PDFs, Word documents (DOCX), Excel spreadsheets (XLSX, XLS), and CSV files.
 ### Chunk-based Retrieval: Automatically splits large text files into manageable chunks for efficient processing.
 ### Text Embeddings: Utilizes a lightweight local model to create vector embeddings of document content.
 ### FAISS Indexing: Enables quick and efficient retrieval of the most relevant sections of a document.
