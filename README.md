@@ -14,3 +14,13 @@ This project implements a Retrieval-Augmented Generation (RAG) system over files
    git clone https://github.com/yourusername/rag-over-files.git
    cd rag-over-files
 
+Install dependencies:
+pip install -r requirements.txt
+
+Run the application:
+python main.py
+
+Requirements:
+Python 3.8+
+Local Ollama setup
+
