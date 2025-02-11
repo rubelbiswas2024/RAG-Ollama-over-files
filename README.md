@@ -57,6 +57,6 @@ pip install -r requirements.txt
 python main.py
 
 ### Requirements:
-Python 3.8+
+Python 3.8+ and
 Local Ollama setup
 
