@@ -1,4 +1,4 @@
-# RAG Ollama over files through VPN server
+# RAG Ollama over files (VPN server)
 
 This project implements a Retrieval-Augmented Generation (RAG) system over files such as PDFs, Word documents, and spreadsheets. Users can upload a document, input a query, and get answers based on the document's content.
 
