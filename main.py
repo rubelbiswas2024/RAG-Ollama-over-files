@@ -10,7 +10,11 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 import subprocess
 
 # Initialize Ollama client parameters
-OLLAMA_HOST = 'http://localhost:11434'
+# Initialize Ollama client
+client = Client(
+  host='http://localhost:0000', #Your VPN port
+  headers={'x-some-header': 'some-value'}
+)
 MODEL_NAME = 'qwen2.5:32b'
 
 # Function to handle file upload and return the file path
