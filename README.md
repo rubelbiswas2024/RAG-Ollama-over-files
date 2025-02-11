@@ -1,1 +1,1 @@
-# RAG_Ollam_over_files
+# RAG Ollama over files through VPN server
