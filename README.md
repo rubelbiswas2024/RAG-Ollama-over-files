@@ -50,13 +50,13 @@ The system processes the file, retrieves the most relevant sections, and generat
    git clone https://github.com/yourusername/rag-over-files.git
    cd rag-over-files
 
-Install dependencies:
+### Install dependencies:
 pip install -r requirements.txt
 
-Run the application:
+### Run the application:
 python main.py
 
-Requirements:
+### Requirements:
 Python 3.8+
 Local Ollama setup
 
